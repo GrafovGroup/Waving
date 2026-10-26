@@ -1,0 +1,1 @@
+window.WAVING_CONFIG={"quoteEndpoint": "https://formspree.io/f/mwlpgdov", "enquiryEmail": "info@waving.ca", "phoneE164": "+18336969996", "phone": "(833) 696-9996"};

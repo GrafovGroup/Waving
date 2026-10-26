@@ -1,0 +1,18 @@
+{
+  "brand": "Waving",
+  "origin": "https://waving.ca",
+  "publicDomain": "https://waving.ca",
+  "phone": "(833) 696-9996",
+  "phoneE164": "+18336969996",
+  "phoneVerified": true,
+  "quoteEndpoint": "https://formspree.io/f/mwlpgdov",
+  "enquiryEmail": "info@waving.ca",
+  "legalOperator": "",
+  "privacyContact": "",
+  "confirmedOnSiteRegions": [],
+  "locale": "en-CA",
+  "futureLocales": [
+    "fr-CA"
+  ],
+  "projectGallery": []
+}
