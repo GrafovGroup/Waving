@@ -82,3 +82,7 @@
 
 /* Keep the utility phone readable and aligned on narrow screens. */
 .utility{align-items:center;gap:16px}.utility>span{min-width:0}.utility>a[href^="tel:"]{flex-shrink:0;white-space:nowrap;display:inline-flex;align-items:center;min-height:32px}
+
+/* Compact mobile utility bar: keep both the slogan and phone on one line. */
+@media(max-width:760px){.utility{padding:5px 10px;gap:8px;font-size:clamp(9.5px,2.5vw,11px);letter-spacing:0}.utility>span{max-width:none;white-space:nowrap;letter-spacing:0}.utility>a[href^="tel:"]{min-height:30px;letter-spacing:0}}
+.quote-attachments{margin:16px 0 22px}.quote-attachments>summary{cursor:pointer;font-size:.85rem;padding:10px 0;text-decoration:underline;text-underline-offset:3px}.quote-attachments[open]>.field{margin-top:12px}#quote-form .form-actions{justify-content:flex-end}#quote-form textarea{min-height:100px}
