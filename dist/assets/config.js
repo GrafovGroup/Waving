@@ -1,1 +1,1 @@
-window.WAVING_CONFIG={"quoteEndpoint": "https://formspree.io/f/mwlpgdov", "enquiryEmail": "info@waving.ca", "phoneE164": "+18336969996", "phone": "(833) 696-9996"};
+window.WAVING_CONFIG={"quoteEndpoint": "https://formspree.io/f/mwlpgdov", "enquiryEmail": "info@waving.ca", "phoneE164": "+18448343524", "phone": "(844) 834 - FLAG (3524)"};

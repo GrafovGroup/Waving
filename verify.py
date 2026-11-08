@@ -23,7 +23,7 @@ errors=[]
 for p,h in parsed.items():
  if h.h1!=1:errors.append(f'{p}: {h.h1} H1s')
  if not all([h.title,h.desc,h.robots,h.canonical,h.schema]):errors.append(f'{p}: metadata missing')
- if h.noindex != ('404' in p.parts or p.name=='404.html'):errors.append(f'{p}: unexpected indexing directive')
+ if h.noindex != (any(part in ('404','search') for part in p.relative_to(root).parts) or p.name=='404.html'):errors.append(f'{p}: unexpected indexing directive')
  for ref in h.refs:
   url=urlsplit(ref)
   if url.scheme or url.netloc:continue

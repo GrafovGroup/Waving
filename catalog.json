@@ -1,1 +1,221 @@
-{"currency":"CAD","mode":"quote","categories":["canada","provincial","international","custom","corporate","municipal","indigenous","event","sports","feather","banner"],"products":[],"commerceEnabled":false}
+{
+  "currency": "CAD",
+  "mode": "quote",
+  "recordType": "product-family",
+  "categories": [
+    "flags",
+    "poles",
+    "parts"
+  ],
+  "products": [
+    {
+      "id": "flags-canada",
+      "category": "flags",
+      "title": "Canadian flags",
+      "description": "For civic entrances, commercial properties, schools and ceremonies, choose a Canadian flag around how and where it will be displayed.",
+      "url": "/flags/canada/",
+      "need": "Buy Flags"
+    },
+    {
+      "id": "flags-provincial",
+      "category": "flags",
+      "title": "Provincial & territorial flags",
+      "description": "Bring provincial and territorial identity into civic displays, campuses, hospitality spaces and public events.",
+      "url": "/flags/provincial/",
+      "need": "Buy Flags"
+    },
+    {
+      "id": "flags-international",
+      "category": "flags",
+      "title": "International flags",
+      "description": "Specify international flags for visiting delegations, cultural events, hotels, sporting occasions and institutional displays.",
+      "url": "/flags/international/",
+      "need": "Buy Flags"
+    },
+    {
+      "id": "flags-custom",
+      "category": "flags",
+      "title": "Custom flags",
+      "description": "Bring original artwork to a flag made for your organization, occasion or outdoor space.",
+      "url": "/flags/custom/",
+      "need": "Custom Flags"
+    },
+    {
+      "id": "flags-corporate",
+      "category": "flags",
+      "title": "Corporate flags",
+      "description": "Give offices, dealerships, industrial sites and corporate events a consistent branded presence.",
+      "url": "/flags/corporate/",
+      "need": "Custom Flags"
+    },
+    {
+      "id": "flags-municipal",
+      "category": "flags",
+      "title": "Municipal flags",
+      "description": "Support municipal buildings, community facilities and civic events with flags specified around the approved municipal identity.",
+      "url": "/flags/municipal/",
+      "need": "Buy Flags"
+    },
+    {
+      "id": "flags-indigenous",
+      "category": "flags",
+      "title": "Indigenous flags",
+      "description": "Request flags for a specific Nation, community or organization, with the design and permission requirements confirmed before supply.",
+      "url": "/flags/indigenous/",
+      "need": "Buy Flags"
+    },
+    {
+      "id": "flags-event",
+      "category": "flags",
+      "title": "Event flags",
+      "description": "Use flags to frame entrances, identify gathering places and bring a coordinated look to a short-term event.",
+      "url": "/flags/event/",
+      "need": "Buy Flags"
+    },
+    {
+      "id": "flags-sports",
+      "category": "flags",
+      "title": "Sports flags",
+      "description": "Plan team and competition flags for clubs, tournaments, sports facilities and supporters’ events.",
+      "url": "/flags/sports/",
+      "need": "Buy Flags"
+    },
+    {
+      "id": "flags-feather",
+      "category": "flags",
+      "title": "Feather flags",
+      "description": "Use vertical feather-style displays for event entrances, retail frontage and wayfinding where the setting permits.",
+      "url": "/flags/feather/",
+      "need": "Buy Flags"
+    },
+    {
+      "id": "flags-banner",
+      "category": "flags",
+      "title": "Banner flags",
+      "description": "Explore banner-style flags for organized displays, promotional settings and building-mounted applications.",
+      "url": "/flags/banner/",
+      "need": "Buy Flags"
+    },
+    {
+      "id": "poles-commercial",
+      "category": "poles",
+      "title": "Commercial flagpoles",
+      "description": "Plan a display that fits the scale of an office, dealership, hotel, campus or civic property.",
+      "url": "/flagpoles/commercial/",
+      "need": "Buy Flagpole"
+    },
+    {
+      "id": "poles-residential",
+      "category": "poles",
+      "title": "Residential flagpoles",
+      "description": "Choose a flagpole around your property, available space and how you want to display your flag.",
+      "url": "/flagpoles/residential/",
+      "need": "Buy Flagpole"
+    },
+    {
+      "id": "poles-aluminum",
+      "category": "poles",
+      "title": "Aluminum flagpoles",
+      "description": "Explore aluminum poles for a broad range of commercial and residential display settings.",
+      "url": "/flagpoles/aluminum/",
+      "need": "Buy Flagpole"
+    },
+    {
+      "id": "poles-fiberglass",
+      "category": "poles",
+      "title": "Fiberglass flagpoles",
+      "description": "Consider fiberglass alongside other pole materials when appearance, site conditions and maintenance preferences matter.",
+      "url": "/flagpoles/fiberglass/",
+      "need": "Buy Flagpole"
+    },
+    {
+      "id": "poles-internal-halyard",
+      "category": "poles",
+      "title": "Internal-halyard flagpoles",
+      "description": "An internal halyard places the raising mechanism inside the pole, with access through a dedicated operating point.",
+      "url": "/flagpoles/internal-halyard/",
+      "need": "Buy Flagpole"
+    },
+    {
+      "id": "poles-external-halyard",
+      "category": "poles",
+      "title": "External-halyard flagpoles",
+      "description": "An external halyard runs on the outside of the pole and is typically secured to a cleat.",
+      "url": "/flagpoles/external-halyard/",
+      "need": "Buy Flagpole"
+    },
+    {
+      "id": "poles-wall-mounted",
+      "category": "poles",
+      "title": "Wall-mounted flagpoles",
+      "description": "Explore angled or upright building-mounted displays where the building and mounting arrangement are suitable.",
+      "url": "/flagpoles/wall-mounted/",
+      "need": "Buy Flagpole"
+    },
+    {
+      "id": "poles-portable",
+      "category": "poles",
+      "title": "Portable flagpoles",
+      "description": "Create flexible flag displays for ceremonies, receptions, trade shows and repeat events.",
+      "url": "/flagpoles/portable/",
+      "need": "Buy Flagpole"
+    },
+    {
+      "id": "poles-temporary",
+      "category": "poles",
+      "title": "Temporary flagpoles",
+      "description": "Plan a short-term display for a festival, ceremony, launch or filming location.",
+      "url": "/flagpoles/temporary/",
+      "need": "Buy Flagpole"
+    },
+    {
+      "id": "parts-flag-clips-snap-hooks",
+      "category": "parts",
+      "title": "Flag clips & snap hooks",
+      "description": "Match replacement clips to your flag, halyard and existing pole arrangement.",
+      "url": "/accessories/flag-clips-snap-hooks/",
+      "need": "Other"
+    },
+    {
+      "id": "parts-halyard-rope",
+      "category": "parts",
+      "title": "Flagpole halyard rope",
+      "description": "Request a compatible replacement rope for an external or internal halyard system.",
+      "url": "/accessories/halyard-rope/",
+      "need": "Other"
+    },
+    {
+      "id": "parts-flagpole-cleats",
+      "category": "parts",
+      "title": "Flagpole cleats",
+      "description": "Identify a replacement cleat around the pole, mounting arrangement and existing rope system.",
+      "url": "/accessories/flagpole-cleats/",
+      "need": "Other"
+    },
+    {
+      "id": "parts-ball-finials",
+      "category": "parts",
+      "title": "Flagpole ball finials",
+      "description": "Discuss a replacement ball finial with the size, connection and pole assembly considered.",
+      "url": "/accessories/ball-finials/",
+      "need": "Other"
+    },
+    {
+      "id": "parts-wall-brackets",
+      "category": "parts",
+      "title": "Flagpole wall brackets",
+      "description": "Explore bracket options for a building-mounted flag display, subject to the wall and fixing requirements.",
+      "url": "/accessories/wall-brackets/",
+      "need": "Other"
+    },
+    {
+      "id": "parts-indoor-flag-stands",
+      "category": "parts",
+      "title": "Indoor flag stands & bases",
+      "description": "Plan freestanding flags for reception areas, meeting rooms, ceremonies and conference stages.",
+      "url": "/accessories/indoor-flag-stands/",
+      "need": "Other"
+    }
+  ],
+  "commerceEnabled": false
+}
